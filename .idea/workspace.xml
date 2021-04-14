@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a479112-84f2-4d88-8264-b13a0eb39cae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kh4CixzmARDpBF5HWZ9jYiVhAH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Py-Project\spider\threading" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Py-Project\spider\jd_sel_login" />
+      <recent name="D:\Py-Project\spider\lagou_sel" />
+      <recent name="D:\Py-Project\spider\tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bilibili_login_kai">
+    <configuration name="bilibili_login_kai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bilbil_sel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilbil_sel/bilibili_login_kai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="queue_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threading_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading_spider/queue_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threading_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading_spider/thread_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="threading_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threading_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading_spider/threading_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="threading_spider_queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threading_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading_spider/threading_spider_queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bilibili_login_kai" />
+        <item itemvalue="Python.threading_spider_queue" />
+        <item itemvalue="Python.threading_spider" />
+        <item itemvalue="Python.thread_test" />
+        <item itemvalue="Python.queue_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a479112-84f2-4d88-8264-b13a0eb39cae" name="Default Changelist" comment="" />
+      <created>1606139363979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606139363979</updated>
+      <workItem from="1606139365333" duration="729000" />
+      <workItem from="1606180643064" duration="33123000" />
+      <workItem from="1606258374272" duration="41131000" />
+      <workItem from="1606354156245" duration="20017000" />
+      <workItem from="1606399077803" duration="5250000" />
+      <workItem from="1606442863232" duration="26349000" />
+      <workItem from="1606529713598" duration="4062000" />
+      <workItem from="1606615926559" duration="38000" />
+      <workItem from="1606620438639" duration="864000" />
+      <workItem from="1606728838688" duration="3098000" />
+      <workItem from="1606733752753" duration="4151000" />
+      <workItem from="1606788596669" duration="4496000" />
+      <workItem from="1606902611304" duration="71000" />
+      <workItem from="1607002710885" duration="4143000" />
+      <workItem from="1607052622185" duration="621000" />
+      <workItem from="1607071337309" duration="4274000" />
+      <workItem from="1607433577094" duration="1725000" />
+      <workItem from="1607477566586" duration="1760000" />
+      <workItem from="1607499768458" duration="1647000" />
+      <workItem from="1607994445635" duration="10097000" />
+      <workItem from="1608005342129" duration="24931000" />
+      <workItem from="1608082301755" duration="25714000" />
+      <workItem from="1608131974645" duration="56000" />
+      <workItem from="1608174187369" duration="822000" />
+      <workItem from="1608216932049" duration="600000" />
+      <workItem from="1608260607071" duration="1396000" />
+      <workItem from="1608305894611" duration="574000" />
+      <workItem from="1608346546836" duration="1529000" />
+      <workItem from="1608434525932" duration="1216000" />
+      <workItem from="1608518309101" duration="7374000" />
+      <workItem from="1608607208725" duration="6423000" />
+      <workItem from="1608636660544" duration="2732000" />
+      <workItem from="1608816702980" duration="1215000" />
+      <workItem from="1608888221025" duration="1285000" />
+      <workItem from="1608972017028" duration="31000" />
+      <workItem from="1608977778868" duration="3616000" />
+      <workItem from="1609039834170" duration="8000" />
+      <workItem from="1609077508736" duration="647000" />
+      <workItem from="1609216364039" duration="19447000" />
+      <workItem from="1609293594505" duration="27296000" />
+      <workItem from="1609378798383" duration="12529000" />
+      <workItem from="1609410558070" duration="2654000" />
+      <workItem from="1609556020651" duration="3000" />
+      <workItem from="1609560568554" duration="1679000" />
+      <workItem from="1609575280061" duration="2783000" />
+      <workItem from="1611326826637" duration="691000" />
+      <workItem from="1611653146564" duration="707000" />
+      <workItem from="1611655327308" duration="1215000" />
+      <workItem from="1611673019824" duration="29000" />
+      <workItem from="1611673049728" duration="39000" />
+      <workItem from="1611673103466" duration="334000" />
+      <workItem from="1616730734857" duration="2690000" />
+      <workItem from="1616848943047" duration="1707000" />
+      <workItem from="1616898385850" duration="2061000" />
+      <workItem from="1616976278291" duration="2830000" />
+      <workItem from="1616982458665" duration="14000" />
+      <workItem from="1617005277672" duration="3304000" />
+      <workItem from="1617078667144" duration="2939000" />
+      <workItem from="1617243412935" duration="611000" />
+      <workItem from="1617874739141" duration="6049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="278" key="#Inspections" timestamp="1609383606507">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="262" y="278" key="#Inspections/0.31.1440.929@0.31.1440.929" timestamp="1609383606507" />
+    <state x="464" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609408125566">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="464" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.31.1440.929@0.31.1440.929" timestamp="1609408125566" />
+    <state width="1438" height="548" key="DebuggerActiveHint" timestamp="1617888131895">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1438" height="548" key="DebuggerActiveHint/0.31.1440.929@0.31.1440.929" timestamp="1617888131895" />
+    <state x="598" y="307" key="FileChooserDialogImpl" timestamp="1617267643442">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="598" y="307" key="FileChooserDialogImpl/0.31.1440.929@0.31.1440.929" timestamp="1617267643442" />
+    <state width="1387" height="213" key="GridCell.Tab.0.bottom" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1352" height="243" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1609298929643" />
+    <state width="1387" height="213" key="GridCell.Tab.0.bottom/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="1246" height="180" key="GridCell.Tab.0.bottom/0.38.2160.1402@0.38.2160.1402" timestamp="1609411351968" />
+    <state width="1387" height="213" key="GridCell.Tab.0.center" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1352" height="243" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1609298929643" />
+    <state width="1387" height="213" key="GridCell.Tab.0.center/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="1246" height="180" key="GridCell.Tab.0.center/0.38.2160.1402@0.38.2160.1402" timestamp="1609411351967" />
+    <state width="1387" height="213" key="GridCell.Tab.0.left" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1352" height="243" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1609298929642" />
+    <state width="1387" height="213" key="GridCell.Tab.0.left/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="1246" height="180" key="GridCell.Tab.0.left/0.38.2160.1402@0.38.2160.1402" timestamp="1609411351967" />
+    <state width="1387" height="213" key="GridCell.Tab.0.right" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1352" height="243" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1609298929643" />
+    <state width="1387" height="213" key="GridCell.Tab.0.right/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="1246" height="180" key="GridCell.Tab.0.right/0.38.2160.1402@0.38.2160.1402" timestamp="1609411351967" />
+    <state width="1387" height="213" key="GridCell.Tab.1.bottom" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1387" height="213" key="GridCell.Tab.1.bottom/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="2117" height="569" key="GridCell.Tab.1.bottom/0.38.2160.1402@0.38.2160.1402" timestamp="1609408397806" />
+    <state width="1387" height="213" key="GridCell.Tab.1.center" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1387" height="213" key="GridCell.Tab.1.center/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="2117" height="569" key="GridCell.Tab.1.center/0.38.2160.1402@0.38.2160.1402" timestamp="1609408397806" />
+    <state width="1387" height="213" key="GridCell.Tab.1.left" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1387" height="213" key="GridCell.Tab.1.left/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="2117" height="569" key="GridCell.Tab.1.left/0.38.2160.1402@0.38.2160.1402" timestamp="1609408397806" />
+    <state width="1387" height="213" key="GridCell.Tab.1.right" timestamp="1617892018248">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1387" height="213" key="GridCell.Tab.1.right/0.31.1440.929@0.31.1440.929" timestamp="1617892018248" />
+    <state width="2117" height="569" key="GridCell.Tab.1.right/0.38.2160.1402@0.38.2160.1402" timestamp="1609408397806" />
+    <state x="136" y="78" key="SettingsEditor" timestamp="1616748228870">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="136" y="78" key="SettingsEditor/0.31.1440.929@0.31.1440.929" timestamp="1616748228870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/peeeww_test.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider.py</url>
+          <line>259</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csdn_spider/spider_练习.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_spider/jd_selenium_js_spider.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_spider/jd_selenium_js_spider.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lagou_sel/lagou_login.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lagou_sel/lagou_login_chaojiying.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_sel_login/jd_3.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_sel_login/jd_3.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_sel_login/jd_3.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_sel_login/jd_5.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_sel_login/jd_6.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd_sel_login/jd_6.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/threading_spider/threading_spider.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spider$requests_test.coverage" NAME="requests_test Coverage Results" MODIFIED="1606192506583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_3.coverage" NAME="jd_3 Coverage Results" MODIFIED="1609321902463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_sel_login" />
+    <SUITE FILE_PATH="coverage/spider$jd_6.coverage" NAME="jd_6 Coverage Results" MODIFIED="1609407268625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_sel_login" />
+    <SUITE FILE_PATH="coverage/spider$models.coverage" NAME="models Coverage Results" MODIFIED="1606454912597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$fz_spider_csv2.coverage" NAME="fz_spider_csv2 Coverage Results" MODIFIED="1609387186127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fz_spider" />
+    <SUITE FILE_PATH="coverage/spider$pymysql_test.coverage" NAME="pymysql_test Coverage Results" MODIFIED="1606140001253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn_spider" />
+    <SUITE FILE_PATH="coverage/spider$fz_spider_cvs.coverage" NAME="fz_spider_cvs Coverage Results" MODIFIED="1608001421623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fz_spider" />
+    <SUITE FILE_PATH="coverage/spider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1606297813582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_login_csdn.coverage" NAME="jd_login_csdn Coverage Results" MODIFIED="1609237878455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_sel_login" />
+    <SUITE FILE_PATH="coverage/spider$re_test.coverage" NAME="re_test Coverage Results" MODIFIED="1606473632505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$threading_spider.coverage" NAME="threading_spider Coverage Results" MODIFIED="1617888055796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_spider" />
+    <SUITE FILE_PATH="coverage/spider$queue_test.coverage" NAME="queue_test Coverage Results" MODIFIED="1617875067353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_spider" />
+    <SUITE FILE_PATH="coverage/spider$login_bilibili_chaojiying.coverage" NAME="login_bilibili_chaojiying Coverage Results" MODIFIED="1611653398556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilbil_sel" />
+    <SUITE FILE_PATH="coverage/spider$login_bilibili.coverage" NAME="login_bilibili Coverage Results" MODIFIED="1608087373666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilbil_sel" />
+    <SUITE FILE_PATH="coverage/spider$jd_4.coverage" NAME="jd_4 Coverage Results" MODIFIED="1609299841975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_sel_login" />
+    <SUITE FILE_PATH="coverage/spider$threadpool_test.coverage" NAME="threadpool_test Coverage Results" MODIFIED="1606366053895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd.coverage" NAME="jd Coverage Results" MODIFIED="1617009616406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fz_spider" />
+    <SUITE FILE_PATH="coverage/spider$thread_test.coverage" NAME="thread_test Coverage Results" MODIFIED="1617886453230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_spider" />
+    <SUITE FILE_PATH="coverage/spider$threadpool_spider.coverage" NAME="threadpool_spider Coverage Results" MODIFIED="1606367927066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_spider" />
+    <SUITE FILE_PATH="coverage/spider$spider_.coverage" NAME="spider_练习 Coverage Results" MODIFIED="1606789404693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_selenium_spider.coverage" NAME="jd_selenium_spider Coverage Results" MODIFIED="1607075368439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_5.coverage" NAME="jd_5 Coverage Results" MODIFIED="1609407025051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_sel_login" />
+    <SUITE FILE_PATH="coverage/spider$jd_login.coverage" NAME="jd_login Coverage Results" MODIFIED="1609411351946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_sel_login" />
+    <SUITE FILE_PATH="coverage/spider$threading_spider_queue.coverage" NAME="threading_spider_queue Coverage Results" MODIFIED="1617888473303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_spider" />
+    <SUITE FILE_PATH="coverage/spider$peeeww_test.coverage" NAME="peeeww_test Coverage Results" MODIFIED="1606184613781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn_spider" />
+    <SUITE FILE_PATH="coverage/spider$threading_sync.coverage" NAME="threading_sync Coverage Results" MODIFIED="1606310678002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_selenium_soider.coverage" NAME="jd_selenium_soider Coverage Results" MODIFIED="1606400220522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_selenium_spider__1_.coverage" NAME="jd_selenium_spider (1) Coverage Results" MODIFIED="1606402413401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$jd_selenium_dynamic.coverage" NAME="jd_selenium_dynamic Coverage Results" MODIFIED="1608637066259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$lagou_login.coverage" NAME="lagou_login Coverage Results" MODIFIED="1616978398426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lagou_sel" />
+    <SUITE FILE_PATH="coverage/spider$jd_spider.coverage" NAME="jd_spider Coverage Results" MODIFIED="1606387312821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_spider" />
+    <SUITE FILE_PATH="coverage/spider$bilibili_kai.coverage" NAME="bilibili_kai Coverage Results" MODIFIED="1611653313445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilbil_sel" />
+    <SUITE FILE_PATH="coverage/spider$parse_code.coverage" NAME="parse_code Coverage Results" MODIFIED="1608041606487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilbil_sel" />
+    <SUITE FILE_PATH="coverage/spider$bilibili_login_kai.coverage" NAME="bilibili_login_kai Coverage Results" MODIFIED="1617889303531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilbil_sel" />
+    <SUITE FILE_PATH="coverage/spider$bilbil_sel_spider.coverage" NAME="bilbil_sel_spider Coverage Results" MODIFIED="1608108070335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilbil_sel" />
+    <SUITE FILE_PATH="coverage/spider$lagou_login_chaojiying.coverage" NAME="lagou_login_chaojiying Coverage Results" MODIFIED="1609314417631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lagou_sel" />
+  </component>
+</project>
